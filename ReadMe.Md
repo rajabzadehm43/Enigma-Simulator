@@ -16,7 +16,7 @@
 
 3- Enter Your Words Without Space And Symbols, Worlds Must Be Lower Case
 
-4- Program Computing Encrypted Word And Show Encrypted Word On Console
+4- Program Computing Decrypted Word And Show Decrypted Word On Console
 
 *Tips*
 
